@@ -1,0 +1,3 @@
+Landing page
+This webpage was done following the image references provided by The Odin Project. I followed the "Full Design" image as close as possible and used the colors, fonts and sizes given in the "Color and Fonts" image. This webpage was built on a macbook pro with a 15.4 inch display and a resolution of 2880x1800 so it's possible that the website will look differently on a screen with some other resolution. 
+Andrés Sato
